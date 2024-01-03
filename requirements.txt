@@ -1,0 +1,13 @@
+altair @ git+https://github.com/altair-viz/altair.git@cc14c36327e1bdd228a67b7cd89f7709376d5fbe
+python-binance
+openai
+newsapi-python
+PyPDF2
+PyMuPDF
+frontend
+fitz
+scikit-learn
+streamlit
+ccxt
+vaderSentiment
+yfinance
