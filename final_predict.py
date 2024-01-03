@@ -9,6 +9,7 @@ from sklearn.impute import SimpleImputer
 from newsapi import NewsApiClient
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import ccxt
+# import plotly.express as px
 import re
 from data_processing import preprocess_and_categorize, extract_data_from_pdf
 from datetime import datetime
